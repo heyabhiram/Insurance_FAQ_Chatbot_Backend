@@ -1,0 +1,1788 @@
+[
+  {
+    "id": "faq_001",
+    "question": "What is comprehensive vehicle insurance?",
+    "answer": "Comprehensive vehicle insurance is an all-inclusive policy that covers damages to your own vehicle (due to accidents, fire, theft, vandalism, and natural calamities) as well as mandatory third-party liabilities (bodily injury, death, or property damage caused to another person).",
+    "category": "comprehensive_insurance",
+    "keywords": [
+      "comprehensive",
+      "full coverage",
+      "own damage",
+      "third party liability",
+      "all round cover"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_002",
+    "question": "What is third-party vehicle insurance?",
+    "answer": "Third-party vehicle insurance is a legally mandated motor insurance cover under the Motor Vehicles Act in India. It covers financial liabilities for injuries, permanent disability, death, or property damage caused by your vehicle to external third parties. It does not cover damage to your own vehicle.",
+    "category": "third_party_insurance",
+    "keywords": [
+      "third-party",
+      "third party",
+      "liability",
+      "mandatory",
+      "act only",
+      "legal requirement"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_003",
+    "question": "What is Standalone Own Damage (OD) insurance?",
+    "answer": "Standalone Own Damage (OD) insurance is a policy that exclusively covers repair or replacement costs for damage or total loss of your own vehicle resulting from road accidents, fire, theft, natural disasters, or vandalism. It can be purchased alongside an existing active third-party policy.",
+    "category": "coverage",
+    "keywords": [
+      "own damage",
+      "od",
+      "standalone",
+      "accident damage",
+      "fire",
+      "theft"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_004",
+    "question": "What is the difference between comprehensive and third-party insurance?",
+    "answer": "Third-party insurance is legally compulsory and only covers damages or injuries inflicted on other people and their property. Comprehensive insurance includes third-party liability cover plus own damage (OD) coverage for your own vehicle against accidents, theft, fire, and natural disasters.",
+    "category": "comprehensive_insurance",
+    "keywords": [
+      "difference",
+      "comprehensive vs third party",
+      "coverage comparison"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_005",
+    "question": "What is Insured Declared Value (IDV) in vehicle insurance?",
+    "answer": "Insured Declared Value (IDV) is the maximum insured sum payable by the insurance company in the event of total loss, constructive total loss, or theft of your vehicle. It represents the manufacturer's selling price minus depreciation based on the age of the vehicle.",
+    "category": "idv",
+    "keywords": [
+      "idv",
+      "insured declared value",
+      "market value",
+      "sum insured",
+      "total loss"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_006",
+    "question": "How is IDV calculated for a vehicle?",
+    "answer": "IDV is calculated as: (Manufacturer's listed selling price - Depreciation) + (Cost of optional accessories not included in the list price - Depreciation). Depreciation ranges from 5% for vehicles up to 6 months old, 20% for 1-2 years, up to 50% for 4-5 years, as per standard Indian motor tariff guidelines.",
+    "category": "idv",
+    "keywords": [
+      "calculate idv",
+      "idv formula",
+      "depreciation slab",
+      "vehicle valuation"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_007",
+    "question": "How does IDV affect my vehicle insurance premium?",
+    "answer": "A higher IDV provides greater financial protection in case of vehicle theft or total damage, which increases the own-damage portion of your premium. A lower IDV lowers the premium but reduces the compensation received during a total loss claim.",
+    "category": "idv",
+    "keywords": [
+      "idv premium",
+      "higher idv",
+      "lower idv",
+      "affect premium"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_008",
+    "question": "Can I increase or decrease the IDV of my vehicle?",
+    "answer": "Yes, insurers generally allow a 10% to 15% adjustment (increase or decrease) on the recommended IDV during policy renewal. Setting it unrealistically high increases your premium, while setting it too low leaves you underinsured during total loss or theft.",
+    "category": "idv",
+    "keywords": [
+      "change idv",
+      "increase idv",
+      "decrease idv",
+      "adjust idv"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_009",
+    "question": "What is No Claim Bonus (NCB) in vehicle insurance?",
+    "answer": "No Claim Bonus (NCB) is a reward discount on the Own Damage premium offered to policyholders who do not make any insurance claims during a policy year. It starts at 20% after the first claim-free year and can increase up to a maximum of 50% for 5 consecutive claim-free years.",
+    "category": "ncb",
+    "keywords": [
+      "ncb",
+      "no claim bonus",
+      "claim free bonus",
+      "discount slab"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_010",
+    "question": "What are the NCB discount slabs?",
+    "answer": "The standard NCB discount slabs in India are: 1st claim-free year = 20%, 2nd consecutive year = 25%, 3rd consecutive year = 35%, 4th consecutive year = 45%, and 5th consecutive claim-free year = 50% maximum discount on Own Damage premium.",
+    "category": "ncb",
+    "keywords": [
+      "ncb slabs",
+      "ncb percentage",
+      "50 percent ncb",
+      "bonus discount"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_011",
+    "question": "Can I transfer my NCB when selling my old car or switching insurers?",
+    "answer": "Yes, NCB belongs to you (the vehicle owner) and not the vehicle. When you sell your old vehicle, you can obtain an NCB Retention Certificate from your insurer and apply the accrued bonus to your new car policy, even if changing insurers.",
+    "category": "ncb",
+    "keywords": [
+      "transfer ncb",
+      "sell car",
+      "switch insurer",
+      "ncb certificate",
+      "retention"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_012",
+    "question": "What happens to my NCB if I make a claim?",
+    "answer": "If you file an own-damage claim during the policy tenure, the accumulated NCB generally resets to 0% for the subsequent renewal, unless you purchased an optional 'NCB Protect' add-on cover.",
+    "category": "ncb",
+    "keywords": [
+      "ncb reset",
+      "file claim ncb",
+      "lose ncb",
+      "zero ncb",
+      "ncb protect"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_013",
+    "question": "What is an NCB Protect add-on cover?",
+    "answer": "NCB Protect is an optional add-on that shields your earned No Claim Bonus discount from resetting to zero even if you file one or two claims during the policy year, preserving your renewal discount.",
+    "category": "ncb",
+    "keywords": [
+      "ncb protect",
+      "add-on",
+      "protect bonus",
+      "claim without losing ncb"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_014",
+    "question": "What is the procedure to file an accidental damage claim?",
+    "answer": "To file an accidental damage claim: 1. Notify your insurer immediately. 2. Take photos or video of the damage and accident scene. 3. File a Police FIR if third-party injury, property damage, or dispute occurred. 4. Move vehicle to an authorized network garage for cashless repair or any garage for reimbursement. 5. A surveyor inspects the damage before repairs commence. 6. Submit claim form with RC, driving licence, and repair estimate.",
+    "category": "claim_process",
+    "keywords": [
+      "claim procedure",
+      "file accident claim",
+      "claim steps",
+      "surveyor inspection"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_015",
+    "question": "What documents are required to file a vehicle insurance claim?",
+    "answer": "The essential documents required are: completed and signed claim form, copy of Registration Certificate (RC), valid Driving Licence of the driver at the time of the accident, vehicle insurance policy document, FIR (for theft, major collision, or third-party injury), and repair estimate/invoices from the workshop.",
+    "category": "claim_process",
+    "keywords": [
+      "claim documents",
+      "required documents",
+      "dl",
+      "rc copy",
+      "claim form"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_016",
+    "question": "What is the claim process if my vehicle is stolen?",
+    "answer": "If your vehicle is stolen: 1. Immediately file an FIR at the nearest police station. 2. Notify your insurer and the local Regional Transport Office (RTO) about the theft. 3. Submit FIR copy, original car keys, RC book, and claim form to the insurer. 4. If the police cannot trace the vehicle, they will issue a 'Non-Traceable Certificate' (Final Untraced Report), after which your insurer settles the claim up to the vehicle's IDV.",
+    "category": "claim_process",
+    "keywords": [
+      "theft claim",
+      "stolen car",
+      "untraced report",
+      "fir",
+      "stolen vehicle procedure"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_017",
+    "question": "What is a cashless claim settlement?",
+    "answer": "In a cashless claim, you take your vehicle to an authorized network garage partnered with your insurer. The insurer pays the repair costs directly to the garage after deducting mandatory deductibles and depreciation (unless zero depreciation add-on is held). You do not pay out-of-pocket for approved repairs.",
+    "category": "claim_process",
+    "keywords": [
+      "cashless claim",
+      "cashless settlement",
+      "network workshop",
+      "direct settlement"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_018",
+    "question": "What is a reimbursement claim settlement?",
+    "answer": "In a reimbursement claim, you get your damaged vehicle repaired at a non-network garage, settle the repair bill directly from your own pocket, and then submit the original invoices, payment receipts, and inspection reports to the insurer to claim reimbursement.",
+    "category": "claim_process",
+    "keywords": [
+      "reimbursement claim",
+      "non network garage",
+      "pay and claim",
+      "bill settlement"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_019",
+    "question": "How do I check the status of my vehicle insurance claim?",
+    "answer": "You can check your claim status by visiting your insurance provider's official customer portal or mobile app using your Claim Reference Number or Policy Number. Alternatively, you can contact their customer support hotline or reach out to the assigned insurance surveyor.",
+    "category": "claim_status",
+    "keywords": [
+      "claim status",
+      "track claim",
+      "claim reference number",
+      "check claim progress"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_020",
+    "question": "What should I do if my claim is delayed or rejected?",
+    "answer": "If your claim is delayed or rejected, request a written explanation stating the specific policy clause invoked. Review the rejection reasons (such as lack of valid driving licence, late intimation, or commercial use). You can file an appeal with the insurer's Grievance Redressal Officer or escalate to the Insurance Ombudsman if unresolved.",
+    "category": "claim_status",
+    "keywords": [
+      "claim rejected",
+      "delayed claim",
+      "grievance",
+      "appeal claim",
+      "ombudsman"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_021",
+    "question": "What are the common general exclusions in vehicle insurance?",
+    "answer": "Standard motor insurance exclusions include: driving under the influence of alcohol or drugs, driving without a valid driving licence, driving outside designated geographical boundaries, intentional damage or staging accidents, normal wear and tear, mechanical/electrical breakdown, and driving a private vehicle for commercial hire without a commercial policy.",
+    "category": "exclusions",
+    "keywords": [
+      "exclusions",
+      "not covered",
+      "drunk driving",
+      "wear and tear",
+      "mechanical failure"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_022",
+    "question": "Is mechanical or electrical breakdown covered under motor insurance?",
+    "answer": "No, standard vehicle insurance covers accidental damage and external impact, but does not cover general mechanical breakdowns, engine seizure due to water logging (unless Engine Protect add-on is present), electrical failures, or gradual wear and tear.",
+    "category": "exclusions",
+    "keywords": [
+      "mechanical breakdown",
+      "engine failure",
+      "electrical fault",
+      "wear tear"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_023",
+    "question": "Is damage caused by driving without a valid driving licence covered?",
+    "answer": "No. Driving without a valid driving licence is illegal and constitutes a fundamental breach of policy conditions. Any claim arising when an unlicenced or disqualified person is driving will be rejected by the insurer.",
+    "category": "exclusions",
+    "keywords": [
+      "without licence",
+      "invalid driving licence",
+      "claim rejection licence"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_024",
+    "question": "What is a compulsory deductible in motor insurance?",
+    "answer": "A compulsory deductible is a fixed statutory amount mandated by the IRDAI that the policyholder must pay from their own pocket for every accidental claim. For two-wheelers, it is typically Rs. 100, and for private cars, it is Rs. 1,000 (engines up to 1500cc) or Rs. 2,000 (engines above 1500cc).",
+    "category": "exclusions",
+    "keywords": [
+      "compulsory deductible",
+      "deductible amount",
+      "excess",
+      "mandatory deductible"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_025",
+    "question": "What is a voluntary deductible?",
+    "answer": "A voluntary deductible is an optional amount you choose to pay out-of-pocket during an accidental claim, in addition to the compulsory deductible. Opting for a higher voluntary deductible grants you a discount on your own-damage insurance premium.",
+    "category": "exclusions",
+    "keywords": [
+      "voluntary deductible",
+      "discount voluntary",
+      "lower premium deductible"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_026",
+    "question": "How do I renew my vehicle insurance policy?",
+    "answer": "You can renew your vehicle insurance online through your insurer's website or mobile app by entering your vehicle registration number or existing policy number, selecting required coverage/add-ons, reviewing the IDV and NCB discount, and completing online payment.",
+    "category": "policy_renewal",
+    "keywords": [
+      "renew policy",
+      "policy renewal",
+      "online renewal",
+      "renew car insurance"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_027",
+    "question": "What happens if my vehicle insurance policy expires?",
+    "answer": "If your policy expires, driving your vehicle on public roads becomes illegal and leaves you financially vulnerable. In addition, if you allow a break in policy exceeding 90 days, you lose your accumulated No Claim Bonus (NCB), and the vehicle will require physical or self-inspection before a new policy is issued.",
+    "category": "policy_renewal",
+    "keywords": [
+      "expired policy",
+      "policy lapse",
+      "break in insurance",
+      "90 days ncb lapse"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_028",
+    "question": "Is vehicle physical inspection necessary for renewing an expired policy?",
+    "answer": "If your policy has lapsed for more than a few days, insurers usually require a vehicle inspection (either self-inspection via smartphone photos/video or by an authorized surveyor) to confirm there is no pre-existing damage before issuing cover.",
+    "category": "policy_renewal",
+    "keywords": [
+      "inspection",
+      "expired renewal inspection",
+      "break in cover",
+      "vehicle photo inspection"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_029",
+    "question": "What is the 90-day grace period for NCB during policy renewal?",
+    "answer": "You have a 90-day grace period from your policy expiry date to renew your motor insurance and retain your accumulated No Claim Bonus (NCB). If you fail to renew within 90 days of expiry, your entire NCB discount will be forfeited.",
+    "category": "policy_renewal",
+    "keywords": [
+      "90 days grace period",
+      "ncb retention grace",
+      "renewal window"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_030",
+    "question": "What payment methods are accepted for insurance premium payment?",
+    "answer": "Insurance premiums can be paid online via Net Banking, UPI, Credit Cards, Debit Cards, and authorized digital wallets. Premium payments can also be made through offline cheques or demand drafts at branch offices.",
+    "category": "premium_payment",
+    "keywords": [
+      "premium payment",
+      "payment methods",
+      "upi",
+      "credit card",
+      "pay premium"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_031",
+    "question": "Can I pay my vehicle insurance premium in monthly installments or EMIs?",
+    "answer": "Most general insurers require the annual motor insurance premium to be paid as a lump sum upfront before the risk commences, as per Section 64VB of the Insurance Act. However, some credit card issuers and financial portals provide EMI payment options on your card.",
+    "category": "premium_payment",
+    "keywords": [
+      "emi payment",
+      "installments",
+      "monthly premium",
+      "section 64vb"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_032",
+    "question": "What factors influence my vehicle insurance premium calculation?",
+    "answer": "Factors that influence your vehicle insurance premium include: vehicle type and model, cubic capacity (cc), age of vehicle (depreciation and IDV), geographical location/city zone, chosen coverage (comprehensive vs third-party), accumulated No Claim Bonus (NCB), opted deductibles, and optional add-on covers.",
+    "category": "premium_payment",
+    "keywords": [
+      "premium factors",
+      "calculate premium",
+      "cubic capacity",
+      "car age",
+      "factors"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_033",
+    "question": "Will I get a refund if I cancel my vehicle insurance policy?",
+    "answer": "Yes, if you cancel your policy before its term ends (for example, if you sell the vehicle or hold duplicate coverage), the insurer refunds the Own Damage premium on a short-period scale, provided no claims have been filed during the active policy year.",
+    "category": "premium_payment",
+    "keywords": [
+      "cancel policy",
+      "refund premium",
+      "policy cancellation",
+      "short period scale"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_034",
+    "question": "What is a policy endorsement in vehicle insurance?",
+    "answer": "A policy endorsement is an official written amendment or rider added to an existing insurance policy document that legally updates policy terms, details, or coverage, such as updating personal details, vehicle engine number, registration number, or adding accessories.",
+    "category": "endorsement",
+    "keywords": [
+      "endorsement",
+      "amendment",
+      "policy modification",
+      "update policy"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_035",
+    "question": "What is the difference between a financial and non-financial endorsement?",
+    "answer": "A non-financial endorsement involves updates that do not alter the premium amount (e.g., correcting spelling mistakes in the owner's name, phone number, address, or nominee). A financial endorsement changes the risk and premium (e.g., adding a CNG/LPG kit, adding anti-theft devices, or adding hypothecation from a bank).",
+    "category": "endorsement",
+    "keywords": [
+      "financial endorsement",
+      "non financial endorsement",
+      "update details"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_036",
+    "question": "How do I add a newly installed CNG or LPG kit to my vehicle insurance policy?",
+    "answer": "To add a CNG/LPG kit: 1. Get the fuel kit endorsed on your Vehicle Registration Certificate (RC) by the RTO. 2. Notify your insurer with the updated RC copy and kit installation invoice. 3. Pay the additional premium for the CNG kit endorsement to get it covered under own damage and third-party liabilities.",
+    "category": "endorsement",
+    "keywords": [
+      "cng kit",
+      "lpg kit",
+      "endorse cng",
+      "fuel kit coverage"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_037",
+    "question": "How do I add or remove bank hypothecation on my vehicle insurance policy?",
+    "answer": "To add hypothecation, submit the loan approval or sanction letter from the lending bank to your insurer. To remove hypothecation after clearing your vehicle loan, submit the bank's No Objection Certificate (NOC) and Form 35 to the insurer to obtain a clean endorsement.",
+    "category": "endorsement",
+    "keywords": [
+      "hypothecation",
+      "bank loan",
+      "remove loan",
+      "noc form 35",
+      "hpa"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_038",
+    "question": "What is a Zero Depreciation (Nil Depreciation / Bumper to Bumper) add-on cover?",
+    "answer": "Zero Depreciation (Nil Dep / Bumper to Bumper) is an optional add-on cover that ensures your insurer does not deduct standard depreciation on replaced metal, rubber, plastic, and fiberglass parts during an accident claim, allowing you to receive maximum claim settlement.",
+    "category": "coverage",
+    "keywords": [
+      "zero depreciation",
+      "nil dep",
+      "bumper to bumper",
+      "depreciation cover",
+      "bumper to bumper insurance coverage"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_039",
+    "question": "What is Roadside Assistance (RSA) cover?",
+    "answer": "Roadside Assistance (RSA) is an add-on cover offering 24/7 on-spot emergency assistance if your vehicle breaks down. Services include flat tyre assistance, towing to the nearest workshop, emergency fuel delivery, jumpstarting a dead battery, and lockout assistance.",
+    "category": "coverage",
+    "keywords": [
+      "roadside assistance",
+      "rsa",
+      "breakdown assistance",
+      "flat tyre",
+      "towing"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_040",
+    "question": "What is Engine Protect add-on cover?",
+    "answer": "Engine Protect is an add-on that covers repair or replacement costs of internal engine components and gearbox damaged by water ingress (hydrostatic lock) during floods or due to engine oil leakage, which are normally excluded under standard policies.",
+    "category": "coverage",
+    "keywords": [
+      "engine protect",
+      "hydrostatic lock",
+      "water ingression",
+      "flood engine damage"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_041",
+    "question": "What is Return to Invoice (RTI) add-on cover?",
+    "answer": "Return to Invoice (RTI) is an add-on cover that bridges the gap between the vehicle's Insured Declared Value (IDV) and its original on-road purchase price (including registration and road tax) in the event of total loss, constructive total loss, or unrecovered vehicle theft.",
+    "category": "coverage",
+    "keywords": [
+      "return to invoice",
+      "rti",
+      "invoice price",
+      "total loss claim"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_042",
+    "question": "What is Compulsory Personal Accident (CPA) cover for vehicle owners?",
+    "answer": "Compulsory Personal Accident (CPA) cover is a mandatory coverage under Indian motor regulations providing Rs. 15 lakhs compensation in case of accidental death or permanent total disability of the registered owner-driver while driving. It can be purchased with the vehicle policy or as a standalone personal accident cover.",
+    "category": "eligibility",
+    "keywords": [
+      "compulsory personal accident",
+      "cpa",
+      "15 lakhs",
+      "owner driver cover"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_043",
+    "question": "Who is eligible to purchase vehicle insurance?",
+    "answer": "Any registered owner of a private car, commercial vehicle, or two-wheeler holding a valid registration certificate (RC) or sale certificate (for brand new unregistered vehicles) is eligible to purchase vehicle insurance.",
+    "category": "eligibility",
+    "keywords": [
+      "eligibility",
+      "who can buy",
+      "registered owner",
+      "new vehicle insurance"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_044",
+    "question": "Can I buy insurance for a pre-owned or second-hand vehicle?",
+    "answer": "Yes, you can purchase insurance for a second-hand vehicle or transfer the existing policy from the previous owner within 14 days of vehicle ownership transfer as mandated under the Motor Vehicles Act.",
+    "category": "eligibility",
+    "keywords": [
+      "second hand vehicle",
+      "used car insurance",
+      "pre-owned vehicle",
+      "14 days transfer"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_045",
+    "question": "What is a network or cashless garage?",
+    "answer": "A network or cashless garage is an automobile repair workshop that has a formal tie-up with your insurance provider. When you get your vehicle repaired at a network garage, the insurer directly settles the approved repair bill with the garage.",
+    "category": "claim_process",
+    "keywords": [
+      "network garage",
+      "cashless garage",
+      "partner workshop",
+      "authorized workshop"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_046",
+    "question": "How can I locate a cashless network garage?",
+    "answer": "You can find an authorized network workshop near your location by visiting your insurer's official website or mobile app and searching their workshop locator by your city or postal PIN code, or by contacting their 24/7 customer service helpline.",
+    "category": "claim_process",
+    "keywords": [
+      "locate garage",
+      "garage locator",
+      "find cashless garage",
+      "workshop near me"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_047",
+    "question": "Can I get my car repaired at a non-network garage?",
+    "answer": "Yes, you are permitted to repair your vehicle at any non-network garage of your choice. However, cashless facility will not be available; you must pay the repair costs upfront and file a reimbursement claim with the original bills and receipts.",
+    "category": "claim_process",
+    "keywords": [
+      "non network workshop",
+      "outside garage",
+      "reimbursement repair"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_048",
+    "question": "What is the role of an insurance surveyor in the claim process?",
+    "answer": "An insurance surveyor is an independent, IRDAI-licensed professional appointed by the insurance company to inspect the damaged vehicle, evaluate the cause and extent of accidental damage, verify documentation, and approve the estimated repair costs.",
+    "category": "claim_process",
+    "keywords": [
+      "insurance surveyor",
+      "surveyor inspection",
+      "damage assessment",
+      "claim approval"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_049",
+    "question": "What is total loss or constructive total loss (CTL) in vehicle insurance?",
+    "answer": "A vehicle is deemed a Constructive Total Loss (CTL) when the aggregate cost of retrieval and repair exceeds 75% of the vehicle's Insured Declared Value (IDV). In such cases, the insurer pays out the full IDV less applicable mandatory deductions.",
+    "category": "coverage",
+    "keywords": [
+      "total loss",
+      "constructive total loss",
+      "ctl",
+      "75 percent idv"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_050",
+    "question": "Does vehicle insurance cover damages caused by natural disasters like floods, cyclones, or earthquakes?",
+    "answer": "Yes, a comprehensive vehicle insurance policy or a standalone own-damage policy covers damages caused by natural disasters including floods, cyclones, earthquakes, landslides, and hailstorms. Note that starting an engine submerged in flood water is excluded unless covered by an Engine Protect add-on.",
+    "category": "coverage",
+    "keywords": [
+      "natural disasters",
+      "flood damage",
+      "cyclone",
+      "earthquake",
+      "act of god"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_051",
+    "question": "Does motor insurance cover damages caused by fire or explosion?",
+    "answer": "Yes, comprehensive insurance covers accidental fire, self-ignition, lightning, and explosion damages to your vehicle under the own damage section.",
+    "category": "coverage",
+    "keywords": [
+      "fire damage",
+      "explosion",
+      "self ignition",
+      "fire cover"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_052",
+    "question": "Can I install an anti-theft device to reduce my vehicle insurance premium?",
+    "answer": "Yes, installing an ARAI (Automotive Research Association of India) approved anti-theft device in your vehicle entitles you to a special discount on your Own Damage premium (typically 2.5% up to a maximum of Rs. 500).",
+    "category": "premium_payment",
+    "keywords": [
+      "anti-theft device",
+      "arai approved",
+      "theft discount",
+      "reduce premium"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_053",
+    "question": "What is the key replacement add-on cover?",
+    "answer": "Key replacement is an optional add-on cover that reimburses the cost of replacing your vehicle's smart keys or key fob and reprogramming/replacing the lock set if keys are lost, misplaced, or stolen.",
+    "category": "coverage",
+    "keywords": [
+      "key replacement",
+      "lost key",
+      "key fob",
+      "lock replacement"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_054",
+    "question": "What is tyre protect add-on cover?",
+    "answer": "Tyre protect is an optional add-on cover that covers expenses for repair or replacement of tyres and tubes damaged due to accidental punctures, cuts, bursts, or bulging, which are typically excluded in standard policies.",
+    "category": "coverage",
+    "keywords": [
+      "tyre protect",
+      "tyre damage",
+      "burst tyre",
+      "puncture"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_055",
+    "question": "What should I do immediately after an accident before filing a claim?",
+    "answer": "Immediately after an accident: 1. Ensure personal safety and medical attention for any injured persons. 2. Note the registration numbers of all vehicles involved. 3. Take photographs and videos of the damage, license plates, and surroundings. 4. Call your insurer's 24/7 emergency assistance or helpline to register immediate intimation. 5. Do not move or repair the vehicle before notifying your insurer or surveyor.",
+    "category": "claim_process",
+    "keywords": [
+      "accident immediate steps",
+      "accident checklist",
+      "what to do after accident"
+    ],
+    "source": "Vehicle Insurance FAQ"
+  },
+  {
+    "id": "faq_056",
+    "question": "Which vehicle insurance policy should I choose for my vehicle?",
+    "answer": "The right policy depends on vehicle age, market value, usage, financial capacity, and risk tolerance. Third-party insurance is the minimum legally required liability cover but does not pay for damage to your own vehicle. Comprehensive or package insurance covers third-party liabilities and insured own-damage events. Standalone Own Damage insurance is suitable when an active third-party policy already exists. For a new vehicle, compare bundled insurance options. Evaluate IDV, claim settlement procedures, network garages, deductibles, exclusions, add-ons, premium, and insurer service before purchasing.",
+    "category": "insurance_selection",
+    "keywords": [
+      "which insurance to choose",
+      "best vehicle insurance",
+      "insurance buying guide",
+      "choose car insurance",
+      "insurance recommendation"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_057",
+    "question": "What are all the major types of vehicle insurance policies available in India?",
+    "answer": "Major motor insurance structures include: 1. Third-Party Liability Policy, covering legally insured liabilities to external parties. 2. Comprehensive or Package Policy, combining third-party liability and own-damage cover. 3. Standalone Own Damage Policy, covering the insured vehicle when a valid third-party policy exists separately. 4. Bundled Policy, generally offering long-term third-party insurance and one-year own-damage insurance for eligible new vehicles. 5. Long-Term Third-Party Policy, offering multiple years of third-party cover. 6. Commercial Vehicle Insurance, designed for eligible goods, passenger, and other commercial vehicles. 7. Usage-Based or Pay-As-You-Drive Insurance, where available, with pricing or benefits linked to usage. Insurer-specific products may offer additional configurations and optional covers.",
+    "category": "insurance_selection",
+    "keywords": [
+      "types of vehicle insurance",
+      "all insurance plans",
+      "motor insurance plans India",
+      "package policy",
+      "liability only",
+      "bundled insurance"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_058",
+    "question": "What is a liability-only vehicle insurance policy?",
+    "answer": "A liability-only policy primarily covers the insured vehicle owner's legal liability towards third parties for bodily injury, death, and property damage arising from an insured motor accident, subject to applicable law and policy terms. It does not pay for accidental damage, theft, fire, or flood damage to the insured vehicle. It is generally the lower-premium option for owners who only require mandatory third-party protection.",
+    "category": "insurance_selection",
+    "keywords": [
+      "liability only",
+      "third party only",
+      "act only policy",
+      "mandatory motor insurance"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_059",
+    "question": "What is a private car package policy?",
+    "answer": "A private car package policy, commonly called comprehensive insurance, combines third-party liability cover with own-damage protection for the insured private car. Own-damage protection generally includes accidental external damage, theft, fire, explosion, malicious acts, and specified natural calamities. Optional add-ons may include zero depreciation, engine protection, return to invoice, roadside assistance, consumables, and key protection. All benefits remain subject to the policy schedule, deductibles, exclusions, and selected add-ons.",
+    "category": "insurance_selection",
+    "keywords": [
+      "private car package",
+      "comprehensive car policy",
+      "package insurance",
+      "full coverage"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_060",
+    "question": "What is the difference between a bundled policy and a regular comprehensive policy?",
+    "answer": "A bundled motor policy for an eligible new vehicle generally provides a multi-year third-party insurance component and a one-year own-damage component. For example, commonly used structures include three-year third-party insurance with one-year own-damage insurance for new private cars and five-year third-party insurance with one-year own-damage insurance for new two-wheelers. The own-damage component must be renewed separately when it expires, while the third-party component continues for its contracted term. Always verify the actual policy schedule and current product availability.",
+    "category": "insurance_selection",
+    "keywords": [
+      "bundled policy",
+      "new car insurance",
+      "new bike insurance",
+      "three year third party",
+      "five year third party"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_061",
+    "question": "Which insurance is suitable for a brand-new car?",
+    "answer": "A brand-new car owner should compare eligible bundled policies and package insurance options. A suitable selection should consider the mandatory third-party cover, own-damage protection, correct IDV, zero-depreciation eligibility, return-to-invoice cover, engine protection, roadside assistance, and cashless garage availability. The initial third-party insurance requirement for a new private car is generally three years. The own-damage component may have a different policy duration. Compare the complete multi-year cost rather than only the first-year premium.",
+    "category": "insurance_selection",
+    "keywords": [
+      "new car insurance",
+      "first car insurance",
+      "new vehicle policy",
+      "brand new car"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_062",
+    "question": "Which insurance is suitable for an old car?",
+    "answer": "For an older car, compare the annual comprehensive premium against the current market value, repair costs, theft risk, and affordability of replacing the vehicle. Third-party-only insurance provides mandatory liability protection but leaves own-damage costs to the owner. Comprehensive insurance may remain useful when the vehicle has significant market value or expensive components. A standalone own-damage policy can also be considered if third-party insurance is already active. Check whether zero depreciation and other add-ons are available for the vehicle's age.",
+    "category": "insurance_selection",
+    "keywords": [
+      "old car insurance",
+      "old vehicle cover",
+      "used car insurance",
+      "insurance for older cars"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_063",
+    "question": "Which vehicle insurance should I choose for a two-wheeler?",
+    "answer": "A two-wheeler owner should compare third-party-only, package, bundled, and standalone own-damage options. A new two-wheeler generally requires five-year third-party insurance at initial purchase. Own-damage cover is useful for accidents, theft, fire, and specified natural calamities. Consider zero depreciation, roadside assistance, personal accident protection, and return-to-invoice eligibility where offered. For older low-value motorcycles, compare the own-damage premium with the vehicle's current value and potential repair expenses.",
+    "category": "insurance_selection",
+    "keywords": [
+      "bike insurance selection",
+      "scooter insurance",
+      "two wheeler insurance",
+      "new bike policy"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_064",
+    "question": "What is commercial vehicle insurance?",
+    "answer": "Commercial vehicle insurance covers eligible vehicles used for business or commercial activities, such as goods-carrying trucks, taxis, passenger buses, delivery vehicles, and certain specialised vehicles. Liability-only commercial policies cover specified third-party liabilities. Commercial package policies combine third-party liability with insured own-damage protection. Depending on the vehicle and policy, additional covers may include paid-driver personal accident, employee compensation liability, passenger liability, accessories, and geographical extension.",
+    "category": "insurance_selection",
+    "keywords": [
+      "commercial vehicle insurance",
+      "truck insurance",
+      "taxi insurance",
+      "goods carrier",
+      "passenger vehicle"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_065",
+    "question": "What is pay-as-you-drive vehicle insurance?",
+    "answer": "Pay-As-You-Drive insurance is a usage-oriented motor insurance product offered by certain insurers. Depending on the product, the premium or benefits may be linked to declared annual kilometres, usage limits, or driving-related parameters. Some products offer standard own-damage and third-party structures with usage-related features. Customers must check kilometre limits, tracking requirements, excess charges, renewal conditions, and the consequences of exceeding declared usage.",
+    "category": "insurance_selection",
+    "keywords": [
+      "pay as you drive",
+      "usage based insurance",
+      "low mileage insurance",
+      "kilometre based premium"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_066",
+    "question": "What is the difference between comprehensive insurance and standalone own-damage insurance?",
+    "answer": "A comprehensive or package policy combines third-party liability and own-damage protection under one policy arrangement. Standalone own-damage insurance covers damage to the insured vehicle but does not replace mandatory third-party insurance. It must be maintained alongside a valid third-party policy. Customers with existing long-term third-party insurance may choose standalone own-damage insurance for the remaining period, subject to insurer acceptance.",
+    "category": "insurance_selection",
+    "keywords": [
+      "comprehensive vs standalone od",
+      "own damage comparison",
+      "package vs od",
+      "policy difference"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_067",
+    "question": "What factors should I compare before buying motor insurance?",
+    "answer": "Compare the following factors: 1. Type of cover and policy duration. 2. IDV and vehicle valuation. 3. Own-damage and third-party coverage. 4. Mandatory and voluntary deductibles. 5. Depreciation deductions. 6. Available add-ons and their exclusions. 7. Network garage availability in your area. 8. Claim documentation and cashless procedures. 9. Insurer customer service and grievance process. 10. Premium including applicable taxes. 11. Repair limits, sub-limits, and special conditions. 12. Renewal terms and NCB treatment. Do not select a policy based on premium alone.",
+    "category": "insurance_selection",
+    "keywords": [
+      "insurance comparison checklist",
+      "compare insurers",
+      "policy buying checklist",
+      "insurance evaluation"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_068",
+    "question": "How is the total vehicle insurance premium calculated?",
+    "answer": "The total motor insurance premium depends on the policy type, third-party base premium applicable to the vehicle category, own-damage rate, IDV, vehicle age, manufacturer and model, engine capacity or applicable vehicle classification, registration location, claim history, NCB, selected add-ons, voluntary deductible, and insurer pricing. Applicable taxes are added according to current tax rules. A typical calculation structure is: Base third-party premium + own-damage premium - eligible discounts + add-on premiums + applicable taxes = payable premium.",
+    "category": "premium_calculation",
+    "keywords": [
+      "premium calculation",
+      "insurance premium formula",
+      "motor insurance cost",
+      "premium components"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_069",
+    "question": "What are the components included in a motor insurance payment?",
+    "answer": "A motor insurance payment may include the third-party liability premium, own-damage premium, additional premium for optional covers, electrical and non-electrical accessory premiums, compulsory personal accident premium where applicable, voluntary deductible adjustments, discounts, and applicable taxes. The final amount should be verified against the insurer's premium quotation and policy schedule. Each component should be displayed separately wherever required.",
+    "category": "premium_payment",
+    "keywords": [
+      "insurance payment breakup",
+      "premium components",
+      "payment details",
+      "policy charges"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_070",
+    "question": "How is GST calculated on a motor insurance premium?",
+    "answer": "Motor insurance premiums are subject to applicable GST under the prevailing tax rules. For an illustrative calculation using an 18% GST assumption, a pre-tax premium of Rs. 10,000 results in Rs. 1,800 GST and a total payment of Rs. 11,800. The actual tax treatment and rate must be confirmed from the insurer's current invoice and applicable government notifications. GST exemptions applicable to certain life or health insurance products should not automatically be applied to motor insurance.",
+    "category": "premium_payment",
+    "keywords": [
+      "motor insurance gst",
+      "gst calculation",
+      "insurance tax",
+      "premium tax"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_071",
+    "question": "Can you provide an example of a complete car insurance premium calculation?",
+    "answer": "Illustrative synthetic example: Assume the third-party premium is Rs. 3,500, own-damage premium is Rs. 8,000, optional add-ons cost Rs. 2,000, and eligible discounts are Rs. 1,000. Pre-tax premium = Rs. 3,500 + Rs. 8,000 + Rs. 2,000 - Rs. 1,000 = Rs. 12,500. Assuming 18% GST, tax = Rs. 2,250. Final payable amount = Rs. 14,750. These amounts are hypothetical and are not official insurer rates or a live quotation.",
+    "category": "premium_calculation",
+    "keywords": [
+      "premium example",
+      "car insurance calculation example",
+      "insurance quotation example",
+      "premium breakup"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_072",
+    "question": "What are the available modes of paying vehicle insurance premiums?",
+    "answer": "Depending on the insurer and payment provider, motor insurance premiums can generally be paid through UPI, debit cards, credit cards, net banking, authorised payment gateways, and approved digital wallets. Offline options may include cheque, demand draft, or other accepted branch payment methods. Always make payment through the insurer's authorised channels and retain the payment confirmation and official receipt.",
+    "category": "premium_payment",
+    "keywords": [
+      "insurance payment modes",
+      "upi payment",
+      "online payment",
+      "credit card",
+      "net banking"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_073",
+    "question": "Can I pay my vehicle insurance premium using a credit card EMI?",
+    "answer": "Some insurers, payment gateways, and credit card issuers offer EMI conversion for eligible premium transactions. EMI availability depends on the card issuer, transaction value, tenure, interest rate, processing fee, and promotional conditions. The policy premium must still be received according to applicable insurance payment rules before the insurance cover commences. Check the final EMI cost rather than assuming that the option is interest-free.",
+    "category": "premium_payment",
+    "keywords": [
+      "credit card emi",
+      "insurance instalment",
+      "premium emi",
+      "monthly payment"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_074",
+    "question": "What happens if an insurance premium payment fails?",
+    "answer": "If an online premium payment fails, first verify whether the amount was debited and whether the insurer issued a policy document or payment receipt. If money was debited without policy issuance, contact the insurer and payment provider with the transaction reference number. Do not assume that insurance cover has started merely because the payment was initiated. Confirm successful premium receipt and policy commencement date.",
+    "category": "premium_payment",
+    "keywords": [
+      "payment failed",
+      "insurance transaction failed",
+      "premium debited",
+      "policy not generated"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_075",
+    "question": "How much compensation is payable if my car is completely damaged in an accident?",
+    "answer": "If the vehicle qualifies as a total loss or constructive total loss, the insurer generally settles the claim based on the applicable IDV and policy conditions, less relevant deductions. Example: If the insured IDV is Rs. 6,00,000 and the policy permits a settlement based on the full IDV with a hypothetical Rs. 1,000 deduction, the illustrative payment would be Rs. 5,99,000. Actual settlement depends on salvage arrangements, ownership transfer, outstanding requirements, and policy wording. A standard repair claim is assessed differently.",
+    "category": "accident_payout",
+    "keywords": [
+      "total loss compensation",
+      "complete car damage",
+      "accident payout",
+      "idv settlement"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_076",
+    "question": "How much insurance money will I receive if my insured car is stolen?",
+    "answer": "Under an eligible comprehensive or own-damage policy, an unrecovered stolen vehicle may qualify for a settlement up to its applicable IDV, subject to policy conditions, police investigation, required documentation, and ownership transfer formalities. Example: If the policy IDV is Rs. 5,00,000, the illustrative settlement basis is up to Rs. 5,00,000 before any applicable contractual deductions. A third-party-only policy does not pay for theft of the insured vehicle.",
+    "category": "accident_payout",
+    "keywords": [
+      "stolen car insurance amount",
+      "theft claim payout",
+      "vehicle theft compensation",
+      "idv theft"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_077",
+    "question": "How much will insurance pay for partial accident damage to my car?",
+    "answer": "For a covered partial-damage accident, the insurer generally pays the approved admissible repair cost after applicable depreciation, deductibles, exclusions, and policy limits. Illustrative example: Approved repairs Rs. 50,000, applicable depreciation Rs. 5,000, compulsory deductible Rs. 1,000, and voluntary deductible Rs. 2,000. Estimated insurer payment = Rs. 50,000 - Rs. 5,000 - Rs. 1,000 - Rs. 2,000 = Rs. 42,000. The policyholder pays Rs. 8,000. Actual depreciation and admissibility depend on the policy and selected add-ons.",
+    "category": "accident_payout",
+    "keywords": [
+      "partial damage claim",
+      "accident repair amount",
+      "insurance payout calculation",
+      "repair settlement"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_078",
+    "question": "What happens if my car is damaged in an accident and I have zero depreciation insurance?",
+    "answer": "With a valid zero-depreciation add-on, the insurer may waive specified depreciation deductions on eligible replaced parts during an admissible own-damage claim. Example: If an eligible repair estimate is Rs. 40,000 and normal depreciation would have been Rs. 8,000, a qualifying zero-depreciation claim may avoid that Rs. 8,000 deduction. The compulsory deductible, voluntary deductible, excluded items, consumables, and other policy conditions may still apply. Zero depreciation does not mean every repair expense is automatically paid in full.",
+    "category": "accident_payout",
+    "keywords": [
+      "zero dep claim amount",
+      "nil depreciation payout",
+      "bumper to bumper accident",
+      "depreciation waiver"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_079",
+    "question": "Will comprehensive insurance pay for damage caused to another person's car in an accident?",
+    "answer": "Yes, an applicable motor third-party liability section may cover the insured vehicle owner's legal liability for accidental damage caused to another person's property. The insurer assesses liability, policy conditions, applicable statutory provisions, and the relevant property-damage limit. Comprehensive insurance includes third-party liability, but the own-damage IDV of the insured vehicle does not determine compensation payable for another person's property.",
+    "category": "accident_payout",
+    "keywords": [
+      "third party car damage",
+      "other vehicle accident",
+      "property damage compensation",
+      "third party claim"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_080",
+    "question": "Who pays compensation if a vehicle accident causes injury or death to another person?",
+    "answer": "Third-party motor insurance provides coverage for the insured owner's legally established liability arising from covered accidental bodily injury or death to third parties, subject to applicable law and policy terms. Claims may be determined through the appropriate Motor Accident Claims Tribunal or other legally prescribed process. The amount is not a fixed percentage of the insured vehicle's IDV and may depend on factors such as injury severity, disability, income, age, dependency, and the applicable legal determination.",
+    "category": "accident_payout",
+    "keywords": [
+      "third party injury compensation",
+      "accidental death claim",
+      "motor accident tribunal",
+      "bodily injury liability"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_081",
+    "question": "Will my vehicle insurance pay for injuries to passengers travelling in my car?",
+    "answer": "Passenger injury compensation depends on the applicable third-party liability provisions, vehicle usage, seating and permit conditions, policy type, and any selected passenger personal accident or liability extension. The owner-driver personal accident cover is not automatically a personal accident policy for every passenger. Customers should verify the passenger coverage section, insured persons, sum insured, and exclusions in the policy schedule.",
+    "category": "accident_payout",
+    "keywords": [
+      "passenger accident insurance",
+      "car passenger injury",
+      "passenger compensation",
+      "personal accident passenger"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_082",
+    "question": "Will I receive compensation if I damage my own car by hitting a wall or tree?",
+    "answer": "An eligible comprehensive or standalone own-damage policy may cover accidental external impact damage to the insured vehicle, even when no other vehicle is involved. The insurer assesses the accident circumstances, photographs, repair estimate, survey report, deductibles, depreciation, and exclusions. A third-party-only policy does not compensate the policyholder for damage to their own vehicle.",
+    "category": "accident_payout",
+    "keywords": [
+      "single vehicle accident",
+      "hit wall claim",
+      "hit tree insurance",
+      "own damage collision"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_083",
+    "question": "Will insurance cover damage caused by a flood in which my car was submerged?",
+    "answer": "Comprehensive or standalone own-damage insurance generally covers eligible external flood damage. However, starting or repeatedly attempting to start a submerged engine may cause consequential mechanical damage that is excluded under standard policy wording. Engine Protect may cover specified internal engine damage when its conditions are satisfied. Immediately notify the insurer, photograph the vehicle, avoid starting the engine, and follow the insurer's inspection instructions.",
+    "category": "accident_payout",
+    "keywords": [
+      "flood damaged car",
+      "water logging claim",
+      "engine flood damage",
+      "engine protect payout"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_084",
+    "question": "What is the difference in payout between comprehensive insurance and third-party insurance after an accident?",
+    "answer": "If the insured driver damages their own car in an accident, a third-party-only policy normally provides no own-damage payout. A comprehensive policy may pay admissible repair costs after deductions. If the insured driver causes covered injury or property damage to another person, third-party liability protection may apply under both policy structures. Example: A Rs. 60,000 own-car repair bill could receive no payment under third-party-only cover but may receive an illustrative Rs. 50,000 payment under comprehensive cover after Rs. 10,000 of applicable deductions.",
+    "category": "accident_payout",
+    "keywords": [
+      "comprehensive vs third party claim",
+      "insurance accident comparison",
+      "own car damage payout",
+      "claim difference"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_085",
+    "question": "Will my insurance cover damage if another vehicle hits my parked car and runs away?",
+    "answer": "An own-damage or comprehensive policy may cover accidental damage caused by an unidentified vehicle, subject to evidence, policy terms, and the insurer's assessment. Take photographs, note the location and time, collect CCTV or witness details where possible, and inform the insurer promptly. A police report may be required depending on the circumstances and claim requirements. Third-party-only insurance does not pay for damage to your parked car.",
+    "category": "accident_payout",
+    "keywords": [
+      "hit and run parked car",
+      "unknown vehicle damage",
+      "parked car accident",
+      "own damage claim"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_086",
+    "question": "What happens if my insured car is damaged while being transported by a truck or carrier?",
+    "answer": "Some motor package policies cover insured accidental damage while the vehicle is transported by road, rail, inland waterway, lift, elevator, or air, subject to policy wording and the covered transit conditions. Customers should verify whether the vehicle's transit arrangement is covered and whether a separate carrier liability or transit insurance policy is required. Obtain transport documentation, photographs, and an incident report before submitting a claim.",
+    "category": "coverage",
+    "keywords": [
+      "car transport insurance",
+      "vehicle transit damage",
+      "carrier damage",
+      "transport claim"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_087",
+    "question": "What is a compulsory deductible and how does it affect accident claim payment?",
+    "answer": "A compulsory deductible is the policyholder's mandatory share of an admissible claim. It is deducted from the approved claim settlement. The applicable amount depends on the vehicle category, prevailing rules, and policy schedule. Example: If the approved admissible repair cost is Rs. 25,000 and the applicable compulsory deductible is Rs. 1,000, the estimated insurer payment before other deductions is Rs. 24,000. The figures are illustrative and must not be treated as a universal current deductible schedule.",
+    "category": "accident_payout",
+    "keywords": [
+      "deductible payout",
+      "compulsory excess",
+      "accident claim deduction",
+      "out of pocket amount"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_088",
+    "question": "What is an insurance add-on and how does it change accident claim settlement?",
+    "answer": "An add-on is an optional cover purchased for an additional premium to extend specified benefits beyond the base policy. Examples include zero depreciation, engine protection, return to invoice, consumables, roadside assistance, tyre protection, key replacement, and NCB protection. An add-on changes claim settlement only for the events and expenses explicitly covered in its wording. It does not remove all exclusions, deductibles, limits, or claim conditions.",
+    "category": "coverage",
+    "keywords": [
+      "motor insurance add ons",
+      "optional coverage",
+      "accident claim enhancement",
+      "additional protection"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_089",
+    "question": "What is consumables cover in car insurance?",
+    "answer": "Consumables cover is an optional add-on that may reimburse specified small materials used during admissible vehicle repairs, such as nuts, bolts, screws, lubricants, engine oil, grease, and certain fluids. These items are commonly excluded or deducted under standard own-damage settlement. Coverage is subject to the insurer's consumables definition, limits, claim eligibility, and add-on wording.",
+    "category": "coverage",
+    "keywords": [
+      "consumables cover",
+      "engine oil insurance",
+      "nuts bolts cover",
+      "repair consumables"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_090",
+    "question": "What is tyre and alloy wheel protection insurance?",
+    "answer": "Tyre and alloy wheel protection is an optional add-on that may cover specified accidental tyre and wheel damage, such as cuts, bulges, bursts, and impact-related damage. Standard policies may not cover ordinary tyre wear, deterioration, or routine punctures. The insurer may impose tread-depth conditions, repair restrictions, claim limits, and replacement conditions. Check whether the add-on covers both tyres and alloy wheels.",
+    "category": "coverage",
+    "keywords": [
+      "alloy wheel protection",
+      "tyre insurance",
+      "tyre replacement cover",
+      "wheel damage"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_091",
+    "question": "What is an electric vehicle insurance policy?",
+    "answer": "Electric vehicle motor insurance provides applicable third-party liability and own-damage protection for an insured electric car or two-wheeler. Depending on the insurer, optional covers may include battery protection, charging equipment, electrical accessories, roadside assistance, and specified battery-related damage. The owner should verify battery ownership, leased battery conditions, charging cable coverage, water-ingress exclusions, and EV-specific repair arrangements.",
+    "category": "electric_vehicle_insurance",
+    "keywords": [
+      "ev insurance",
+      "electric car policy",
+      "electric bike insurance",
+      "battery cover"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_092",
+    "question": "Does electric vehicle insurance cover battery damage?",
+    "answer": "Battery damage may be covered under the own-damage section or an EV-specific add-on when the cause of damage is insured and the battery is included in the policy. Some policies may restrict coverage for manufacturing defects, gradual capacity deterioration, ordinary wear, and mechanical or electrical failure. Check whether the battery is owned, leased, or separately insured and confirm the applicable battery sum insured and exclusions.",
+    "category": "electric_vehicle_insurance",
+    "keywords": [
+      "ev battery insurance",
+      "electric vehicle battery damage",
+      "battery replacement claim",
+      "ev protection"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_093",
+    "question": "Is a charging station or home EV charger covered under vehicle insurance?",
+    "answer": "A home charging station or fixed charging equipment is not automatically covered under every vehicle motor insurance policy. Some insurers offer separate or additional protection for charging equipment, charging cables, or portable chargers. Verify whether the equipment is included in the insured vehicle accessories, covered under a dedicated add-on, or requires a separate property or equipment policy.",
+    "category": "electric_vehicle_insurance",
+    "keywords": [
+      "ev charger insurance",
+      "charging station cover",
+      "electric car charger",
+      "charging cable protection"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_094",
+    "question": "What is passenger-carrying commercial vehicle insurance?",
+    "answer": "Passenger-carrying commercial vehicle insurance is designed for eligible taxis, cabs, buses, auto-rickshaws, and other vehicles authorised to carry passengers for commercial purposes. Depending on the policy, it may include mandatory third-party liability, own-damage protection, passenger liability, paid-driver liability, and other selected extensions. Vehicle permits, seating capacity, authorised usage, and declared vehicle details must match the actual operations.",
+    "category": "commercial_vehicle_insurance",
+    "keywords": [
+      "taxi insurance",
+      "cab insurance",
+      "bus insurance",
+      "passenger vehicle policy"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_095",
+    "question": "What is goods-carrying commercial vehicle insurance?",
+    "answer": "Goods-carrying vehicle insurance is designed for vehicles used to transport goods, including trucks, light commercial vehicles, and eligible delivery vehicles. Liability-only policies provide applicable third-party protection, while package policies may additionally cover insured vehicle damage and theft. Goods carried inside the vehicle are not automatically covered by the vehicle's own-damage policy and may require a separate goods-in-transit or cargo insurance policy.",
+    "category": "commercial_vehicle_insurance",
+    "keywords": [
+      "truck insurance",
+      "goods carrier insurance",
+      "lorry policy",
+      "delivery vehicle cover"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_096",
+    "question": "Does vehicle insurance cover personal belongings kept inside a car?",
+    "answer": "Personal belongings inside a vehicle are not automatically covered under standard motor insurance. Certain insurers provide optional personal belongings or loss-of-contents covers with specified limits, exclusions, and documentation requirements. Electronic devices, cash, jewellery, business equipment, and unattended belongings may have special restrictions. Check the exact add-on wording before relying on it.",
+    "category": "coverage",
+    "keywords": [
+      "personal belongings cover",
+      "items stolen from car",
+      "contents insurance",
+      "car theft belongings"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_097",
+    "question": "Does comprehensive insurance cover damage caused by a fire in a parked vehicle?",
+    "answer": "An eligible comprehensive or standalone own-damage policy generally covers accidental fire, explosion, self-ignition, and lightning damage to the insured vehicle. The insurer may investigate the cause of the fire and assess whether an exclusion, intentional act, or policy breach applies. Preserve photographs, fire service records, police documents where relevant, and the vehicle for inspection.",
+    "category": "accident_payout",
+    "keywords": [
+      "parked car fire claim",
+      "vehicle fire insurance",
+      "fire damage settlement",
+      "self ignition"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_098",
+    "question": "Does insurance cover damage caused when I drive into a pothole?",
+    "answer": "Damage caused by an accidental impact with a pothole may qualify under the own-damage section if the incident and resulting damage satisfy the policy conditions. Tyre-only damage, suspension damage, rim damage, and consequential mechanical damage may be treated differently depending on the policy and add-ons. Take photographs of the location and damage, obtain an inspection, and submit a claim with supporting evidence.",
+    "category": "accident_payout",
+    "keywords": [
+      "pothole damage insurance",
+      "suspension claim",
+      "tyre pothole damage",
+      "road accident claim"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_099",
+    "question": "Can I claim insurance if I accidentally damage my vehicle while reversing?",
+    "answer": "Accidental collision while reversing may be covered under a comprehensive or standalone own-damage policy if the incident is genuine and satisfies policy conditions. Damage to the insured vehicle can be assessed for an admissible own-damage claim. Damage caused to another person's property may fall under third-party liability. Applicable deductibles and depreciation may reduce the own-damage settlement.",
+    "category": "accident_payout",
+    "keywords": [
+      "reverse accident claim",
+      "parking collision",
+      "reversing damage",
+      "car accident coverage"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_100",
+    "question": "Does insurance cover an accident if someone else was driving my car?",
+    "answer": "Coverage may remain available when another person drives the insured vehicle with the owner's permission, provided the driver has a valid and appropriate driving licence and all policy conditions are satisfied. The policyholder must disclose accurate information about vehicle use and comply with applicable law. Claims may be affected by unauthorised usage, licence violations, intoxication, or other policy breaches.",
+    "category": "claim_eligibility",
+    "keywords": [
+      "other person driving car",
+      "friend driving accident",
+      "permitted driver",
+      "insurance driver eligibility"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_101",
+    "question": "Can I make an insurance claim if I am responsible for causing the accident?",
+    "answer": "An own-damage claim may be available under a comprehensive or standalone own-damage policy even if the insured driver caused the accident, provided the event is accidental, covered, and no relevant exclusion or policy breach applies. Third-party liability may also respond to the insured owner's legal liability towards affected external parties. Negligence alone does not automatically mean that every claim is excluded.",
+    "category": "claim_eligibility",
+    "keywords": [
+      "at fault accident",
+      "self caused accident",
+      "own fault claim",
+      "accident liability"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_102",
+    "question": "What is the difference between cashless and reimbursement motor insurance claims?",
+    "answer": "In a cashless claim, an authorised network garage submits the approved repair estimate to the insurer and receives the admissible settlement directly, while the customer pays applicable deductions and non-covered expenses. In a reimbursement claim, the customer pays the repair bill and submits eligible documents for reimbursement. The insurer's final liability remains subject to the policy terms, survey assessment, and admissible expenses in both methods.",
+    "category": "claim_process",
+    "keywords": [
+      "cashless vs reimbursement",
+      "garage settlement",
+      "repair payment",
+      "claim method comparison"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_103",
+    "question": "What documents should I collect immediately after a road accident?",
+    "answer": "Collect the vehicle registration details of all involved vehicles, photographs of the accident location, damage, number plates, and surroundings, contact information of witnesses, the other driver's insurance details, and police or FIR documents when applicable. Also preserve medical reports and hospital bills if someone is injured. Notify the insurer promptly and avoid making false statements, unauthorised repairs, or unsupported admissions of liability.",
+    "category": "claim_process",
+    "keywords": [
+      "accident documentation",
+      "accident evidence",
+      "documents after accident",
+      "claim evidence"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_104",
+    "question": "Can an insurer reject an accident claim because the policyholder did not inform the insurer immediately?",
+    "answer": "Insurers generally require prompt accident intimation so that damage, circumstances, and claim eligibility can be verified. Late notification may complicate claim assessment, but the effect depends on the applicable policy wording, circumstances, reason for delay, and applicable legal requirements. Inform the insurer as soon as possible, explain any delay honestly, and retain the acknowledgement and supporting evidence.",
+    "category": "claim_status",
+    "keywords": [
+      "late accident intimation",
+      "claim delay notification",
+      "claim rejection",
+      "inform insurer"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_105",
+    "question": "What is a cashless garage network and why should I check it before buying insurance?",
+    "answer": "A cashless garage network consists of workshops authorised by an insurer to process eligible cashless motor repair claims. Checking the network before purchase helps customers understand whether preferred workshops, authorised dealerships, and nearby repair centres are available. Network size alone does not guarantee repair quality or claim approval. Confirm the exact garage's current tie-up with the insurer.",
+    "category": "claim_process",
+    "keywords": [
+      "network garage comparison",
+      "cashless repair centres",
+      "garage network",
+      "insurance garage"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_106",
+    "question": "What happens if the repair cost is higher than the insured vehicle's IDV?",
+    "answer": "The insurer assesses whether the claim qualifies as a repair claim or a constructive total loss under the applicable policy definition. If retrieval and repair costs cross the relevant constructive total loss threshold, settlement may be based on the policy's total-loss provisions rather than the full repair estimate. The standard constructive total loss benchmark is generally assessed against 75% of IDV, subject to the applicable policy wording and conditions.",
+    "category": "accident_payout",
+    "keywords": [
+      "repair cost exceeds idv",
+      "constructive total loss",
+      "total loss threshold",
+      "vehicle repair estimate"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_107",
+    "question": "What is a return-to-invoice claim and how much can it pay?",
+    "answer": "Return-to-Invoice cover is an optional add-on that may bridge the difference between the applicable IDV and specified original on-road invoice components when an eligible total-loss or unrecovered theft event occurs. Example: If the eligible original invoice value is Rs. 10,00,000 and IDV is Rs. 8,00,000, the potential additional amount under an eligible RTI claim may bridge the Rs. 2,00,000 difference. This is only an illustration; the actual calculation, taxes, registration, road tax, limits, and eligibility depend on the add-on wording.",
+    "category": "accident_payout",
+    "keywords": [
+      "return to invoice payout",
+      "rti amount",
+      "invoice value claim",
+      "total loss difference"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_108",
+    "question": "What is the maximum amount payable under a third-party motor insurance policy?",
+    "answer": "Third-party liability compensation is governed by applicable motor vehicle law, policy terms, and statutory provisions. Bodily injury and death liability must be distinguished from third-party property-damage liability, which may have applicable statutory or policy limits. The insured vehicle's IDV does not cap the legal compensation for third-party bodily injury or death. Customers should check the current legal limits and relevant policy schedule rather than assuming one universal payout amount.",
+    "category": "third_party_insurance",
+    "keywords": [
+      "maximum third party claim",
+      "third party liability limit",
+      "property damage limit",
+      "death compensation"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_109",
+    "question": "Does motor insurance cover the driver's medical expenses after an accident?",
+    "answer": "The insured vehicle's own-damage policy does not automatically operate as comprehensive medical insurance for the driver. Owner-driver personal accident protection may provide specified benefits for accidental death or qualifying permanent disability. Medical expense extensions or separate personal accident and health policies may be needed for other eligible expenses. Verify insured persons, sum insured, covered events, and exclusions.",
+    "category": "personal_accident",
+    "keywords": [
+      "driver medical expenses",
+      "personal accident claim",
+      "accident hospital bill",
+      "driver injury"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_110",
+    "question": "What is the difference between owner-driver personal accident cover and passenger personal accident cover?",
+    "answer": "Owner-driver personal accident cover is intended for the registered owner-driver meeting the applicable eligibility requirements. Passenger personal accident protection is a separate coverage arrangement for eligible passengers, where offered or purchased. These covers have different insured-person definitions, benefits, limits, and conditions. A customer should never assume that an owner-driver sum insured automatically applies to every passenger in the vehicle.",
+    "category": "personal_accident",
+    "keywords": [
+      "owner driver vs passenger pa",
+      "personal accident difference",
+      "passenger pa cover",
+      "driver protection"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_111",
+    "question": "What is a voluntary deductible and how should I choose its amount?",
+    "answer": "A voluntary deductible is an additional claim amount that the policyholder agrees to bear in exchange for a possible reduction in own-damage premium. For example, a Rs. 5,000 voluntary deductible means the customer bears that amount on an applicable claim in addition to the compulsory deductible and other deductions. Choose it only if you can comfortably pay that amount during an unexpected accident. A high voluntary deductible can make small claims financially unattractive.",
+    "category": "insurance_selection",
+    "keywords": [
+      "choose voluntary deductible",
+      "deductible amount selection",
+      "premium discount",
+      "claim contribution"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_112",
+    "question": "Should I claim insurance for a small scratch or minor dent?",
+    "answer": "Before claiming, compare the estimated admissible repair amount with compulsory and voluntary deductibles, depreciation, consumables, and the potential loss of accumulated NCB. Example: If a minor repair costs Rs. 3,000 and the claim deductions total Rs. 2,000, the potential insurance benefit is only Rs. 1,000 before considering future NCB effects. Paying for minor repairs yourself may sometimes be economically preferable. This is a financial comparison, not a restriction on legitimate claim rights.",
+    "category": "claim_decision",
+    "keywords": [
+      "small damage claim",
+      "minor dent insurance",
+      "scratch claim worth it",
+      "ncb impact"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_113",
+    "question": "How many insurance claims can I make in one policy year?",
+    "answer": "The number of claims permitted depends on the base policy and applicable add-on conditions. A policy may not establish a simple universal numerical limit for all covered own-damage events, but repeated claims can affect renewal NCB, premium, underwriting, and certain add-on benefits. Some optional covers impose specific claim-count or monetary limits. Read the policy schedule and add-on wording before relying on multiple claims.",
+    "category": "claim_decision",
+    "keywords": [
+      "number of claims",
+      "multiple accident claims",
+      "claim frequency",
+      "policy year claims"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_114",
+    "question": "How can I check whether an insurer's vehicle insurance policy is genuine?",
+    "answer": "Verify the insurer's identity and authorisation, policy number, vehicle registration number, engine and chassis details, coverage dates, IDV, policy type, premium receipt, and selected add-ons. Use the insurer's official website or customer service to validate the policy. Check the applicable product policy wording and Customer Information Sheet. Do not rely solely on an agent's verbal confirmation or an unofficial payment link.",
+    "category": "policy_verification",
+    "keywords": [
+      "verify motor insurance",
+      "genuine insurance policy",
+      "policy verification",
+      "fake insurance"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_115",
+    "question": "What should I verify in a vehicle insurance policy document after purchase?",
+    "answer": "Verify the insured owner's name, vehicle registration number, engine number, chassis number, vehicle model, fuel type, registration location, policy start and expiry dates, policy type, IDV, third-party details, premium receipt, add-ons, deductibles, NCB percentage, nominee details where applicable, and financier or hypothecation information. Report any error immediately and request an official endorsement or corrected policy document.",
+    "category": "policy_verification",
+    "keywords": [
+      "policy document verification",
+      "check insurance details",
+      "insurance document errors",
+      "policy schedule"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_116",
+    "question": "Can I change my insurance company when renewing my vehicle policy?",
+    "answer": "Yes. A vehicle owner may generally switch insurers at renewal, subject to the new insurer's acceptance and required documentation. Provide accurate vehicle details, previous policy information, NCB evidence, inspection details if required, and claims history. NCB may be carried forward according to applicable rules and verification procedures. Ensure the replacement cover starts before the existing policy expires.",
+    "category": "policy_renewal",
+    "keywords": [
+      "change motor insurer",
+      "switch insurance company",
+      "insurance portability",
+      "renew with another insurer"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_117",
+    "question": "What happens to my insurance policy when I sell my vehicle?",
+    "answer": "When ownership of a vehicle changes, the seller and buyer should complete the required registration and insurance transfer procedures. Third-party policy transfer and own-damage policy transfer may involve different requirements and deadlines. The seller should notify the insurer, and the buyer should ensure the policy is transferred and the registration details are updated. The seller may seek NCB retention for a new vehicle according to applicable procedures.",
+    "category": "policy_transfer",
+    "keywords": [
+      "sell vehicle insurance",
+      "insurance ownership transfer",
+      "used car policy transfer",
+      "buyer seller"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_118",
+    "question": "What is the difference between insurance renewal and insurance transfer?",
+    "answer": "Renewal means extending insurance protection for the same insured vehicle for a new period. Transfer means updating the policyholder or ownership details when the vehicle is sold or transferred. Renewal may involve updated IDV, NCB, premium, and add-on selection. Transfer requires ownership-related documents and insurer processing. Both processes should be completed through authorised insurer procedures.",
+    "category": "policy_management",
+    "keywords": [
+      "renewal vs transfer",
+      "policy transfer difference",
+      "insurance renewal process",
+      "vehicle ownership"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_119",
+    "question": "What is the process for adding an LPG or CNG kit to a commercial or private vehicle policy?",
+    "answer": "The owner should ensure the fuel conversion is legally approved and recorded in the Registration Certificate wherever required. Submit the updated RC and installation documents to the insurer and request an appropriate endorsement. The insurer may revise the premium and insured vehicle details. An unreported modification may create claim complications, particularly where the modification affects risk or the accuracy of the insured vehicle description.",
+    "category": "endorsement",
+    "keywords": [
+      "fuel modification endorsement",
+      "cng car policy",
+      "lpg kit insurance",
+      "vehicle modification"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_120",
+    "question": "Does installing expensive accessories increase vehicle insurance coverage?",
+    "answer": "Expensive accessories are not automatically covered at their full replacement value. Depending on the policy, electrical and non-electrical accessories may need to be declared and insured separately with supporting invoices. The insurer may charge additional premium and include the declared accessory value in the applicable insured amount. Keep purchase invoices and installation records for claim verification.",
+    "category": "endorsement",
+    "keywords": [
+      "accessory insurance",
+      "car modification cover",
+      "music system insurance",
+      "additional accessories"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_121",
+    "question": "Can I cancel vehicle insurance after selling my car?",
+    "answer": "Policy cancellation after a vehicle sale depends on the ownership transfer, policy structure, replacement coverage, and insurer requirements. The seller should not assume that selling the vehicle automatically cancels the insurance or removes all responsibilities. Contact the insurer, submit the required sale and transfer documents, and request an official cancellation or transfer confirmation. Any eligible refund is determined by policy terms and applicable cancellation rules.",
+    "category": "policy_cancellation",
+    "keywords": [
+      "cancel insurance after selling car",
+      "policy cancellation sale",
+      "vehicle sale refund",
+      "insurance termination"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_122",
+    "question": "What is the process for raising a complaint against a motor insurance company?",
+    "answer": "First submit a written complaint to the insurer's official grievance redressal channel and obtain an acknowledgement number. Include the policy number, claim reference, event details, supporting documents, and the specific resolution requested. If the complaint remains unresolved or the response is unsatisfactory, follow the applicable escalation process through the insurer's grievance officer and the Insurance Ombudsman or other competent regulatory grievance mechanism, subject to eligibility and timelines.",
+    "category": "grievance_redressal",
+    "keywords": [
+      "motor insurance complaint",
+      "grievance officer",
+      "insurance ombudsman",
+      "claim dispute"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_123",
+    "question": "What is the difference between a policy exclusion and a claim deduction?",
+    "answer": "A policy exclusion describes a situation, event, expense, or loss that the insurer does not cover under the policy. A claim deduction is an amount subtracted from an otherwise admissible claim, such as a deductible or applicable depreciation. An excluded loss may receive no payment for that item, while a deduction reduces the amount payable on an eligible claim. Customers should request an itemised claim settlement calculation when reviewing deductions.",
+    "category": "policy_terms",
+    "keywords": [
+      "exclusion vs deduction",
+      "claim settlement deductions",
+      "policy exclusions",
+      "insurance terminology"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_124",
+    "question": "What are the important questions to ask an insurance agent before buying a vehicle policy?",
+    "answer": "Ask whether the policy is third-party-only, comprehensive, or standalone own-damage; what IDV is offered; what deductibles apply; whether zero depreciation and engine protection are available; what the add-ons exclude; whether preferred garages are in the network; what the claim process requires; how NCB is calculated; whether passengers and accessories are covered; what taxes and charges are included; and how renewal and cancellation work. Request written answers and the official policy wording before payment.",
+    "category": "insurance_selection",
+    "keywords": [
+      "questions before buying insurance",
+      "insurance agent checklist",
+      "policy comparison questions",
+      "motor insurance advice"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_125",
+    "question": "How should a customer choose between a low-premium policy and a high-coverage policy?",
+    "answer": "Compare the total cost of ownership and the potential financial exposure rather than selecting only the lowest premium. A low-premium third-party policy may leave the customer responsible for all own-vehicle repair or replacement costs. A higher-premium comprehensive policy may provide own-damage protection but can still contain deductibles, depreciation, sub-limits, and exclusions. Select coverage based on vehicle value, affordability, usage, repair costs, risk exposure, and ability to absorb unexpected losses.",
+    "category": "insurance_selection",
+    "keywords": [
+      "cheap vs comprehensive insurance",
+      "low premium high coverage",
+      "insurance affordability",
+      "coverage selection"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_126",
+    "question": "Can a vehicle owner have both third-party and standalone own-damage insurance at the same time?",
+    "answer": "Yes. Standalone own-damage insurance is designed to work alongside an active third-party liability policy. The policies may be issued by different insurers, provided the vehicle details, coverage dates, and other eligibility requirements are correctly maintained. The third-party policy covers applicable external liability, while the standalone own-damage policy covers specified damage to the insured vehicle.",
+    "category": "insurance_selection",
+    "keywords": [
+      "two insurance policies",
+      "standalone od and third party",
+      "different insurers",
+      "dual policy"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_127",
+    "question": "What is an insurance policy waiting period for vehicle inspection?",
+    "answer": "Unlike some health insurance policies, motor insurance does not generally operate with a universal waiting period for ordinary accident cover. However, an insurer may require a pre-insurance inspection, especially for an expired policy, changed coverage, or vehicle with existing damage. Cover commencement is governed by the policy schedule and successful acceptance, and existing damage must not be misrepresented as a new insured accident.",
+    "category": "policy_renewal",
+    "keywords": [
+      "motor insurance waiting period",
+      "pre insurance inspection",
+      "policy inspection",
+      "existing damage"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_128",
+    "question": "What is the difference between IDV and the vehicle's resale value?",
+    "answer": "IDV is the insured value used under the motor policy for specified total-loss and theft settlements, calculated according to applicable motor insurance valuation rules and policy conditions. Resale value is the price a buyer may actually pay in the used-vehicle market. These amounts can differ because resale value depends on condition, mileage, ownership history, demand, location, and negotiation. A policyholder should compare the offered IDV with realistic market values.",
+    "category": "idv",
+    "keywords": [
+      "idv vs resale value",
+      "market price",
+      "vehicle valuation",
+      "insured value"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_129",
+    "question": "What happens if the vehicle is used for commercial purposes but insured under a private car policy?",
+    "answer": "Using a privately insured vehicle for an unauthorised commercial activity may violate the declared usage and policy conditions. An insurer may investigate the circumstances and apply relevant policy exclusions or legal requirements when assessing a claim. Owners should disclose the actual usage and obtain an appropriate commercial motor policy for taxis, rentals, goods transport, or other commercial operations.",
+    "category": "policy_exclusions",
+    "keywords": [
+      "private car commercial use",
+      "wrong vehicle usage",
+      "commercial insurance requirement",
+      "policy breach"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_130",
+    "question": "Can I insure a vehicle that is not currently in running condition?",
+    "answer": "Insurance eligibility for a non-running vehicle depends on its registration status, condition, intended use, inspection results, and insurer underwriting rules. A policy may be subject to inspection or restrictions, and insurance should not be assumed to cover pre-existing mechanical damage. Owners should disclose the vehicle's actual condition and obtain written confirmation of the risks accepted by the insurer.",
+    "category": "eligibility",
+    "keywords": [
+      "non running car insurance",
+      "damaged vehicle insurance",
+      "vehicle inspection",
+      "insurance eligibility"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_131",
+    "question": "What is a motor insurance Customer Information Sheet?",
+    "answer": "A Customer Information Sheet is a standardised document that summarises important insurance product information in an accessible format. It helps customers understand the scope of cover, exclusions, deductibles, sub-limits, claim procedures, grievance channels, and other key policy terms. Customers should read it together with the complete policy wording and schedule before purchasing.",
+    "category": "policy_terms",
+    "keywords": [
+      "customer information sheet",
+      "cis motor insurance",
+      "policy summary",
+      "insurance disclosures"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_132",
+    "question": "How can I calculate my expected out-of-pocket expense after an accident?",
+    "answer": "Estimate the approved repair cost, then subtract the insurer's admissible payment after applicable depreciation, compulsory deductible, voluntary deductible, excluded items, consumables not covered, and any sub-limits. Example: Repair estimate Rs. 70,000, depreciation Rs. 8,000, compulsory deductible Rs. 1,000, voluntary deductible Rs. 2,000, and non-covered expenses Rs. 4,000. Estimated customer contribution = Rs. 15,000 and estimated insurer payment = Rs. 55,000. This is a hypothetical calculation; the actual surveyor-approved settlement may differ.",
+    "category": "accident_payout",
+    "keywords": [
+      "out of pocket calculation",
+      "accident repair cost",
+      "insurance customer contribution",
+      "claim calculation"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_133",
+    "question": "Does comprehensive vehicle insurance cover normal mechanical failure?",
+    "answer": "Ordinary mechanical failure, manufacturing defects, gradual deterioration, and normal wear and tear are generally not covered under standard own-damage insurance. Certain optional covers may extend protection to specified engine or gearbox damage arising from defined events, such as water ingress or oil leakage. Such add-ons do not ordinarily function as a complete manufacturer's warranty or general vehicle maintenance plan.",
+    "category": "policy_exclusions",
+    "keywords": [
+      "mechanical failure",
+      "engine breakdown",
+      "warranty vs insurance",
+      "mechanical exclusion"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_134",
+    "question": "What happens if an insured vehicle is damaged while the driver is intoxicated?",
+    "answer": "Driving under the influence of alcohol or prohibited drugs is unlawful and generally violates motor insurance policy conditions. Claims arising from such driving may be rejected or treated according to the applicable policy wording and law. Third-party legal liabilities and statutory obligations must be distinguished from the insurer's contractual rights against the policyholder. Never assume that a third-party policy eliminates the legal consequences of intoxicated driving.",
+    "category": "policy_exclusions",
+    "keywords": [
+      "drunk driving insurance",
+      "intoxicated driver claim",
+      "alcohol accident",
+      "claim rejection"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_135",
+    "question": "What is the most important rule when selecting the IDV of a vehicle?",
+    "answer": "Choose an IDV that reasonably reflects the vehicle's current insured value according to applicable depreciation and valuation rules. A very high IDV may increase premium without guaranteeing a higher-than-market settlement, while a very low IDV may reduce premium but also reduce total-loss or theft compensation. Compare the insurer's offered IDV, vehicle condition, and current market information before accepting the quotation.",
+    "category": "insurance_selection",
+    "keywords": [
+      "choose idv",
+      "correct insured value",
+      "idv selection",
+      "total loss protection"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  },
+  {
+    "id": "faq_136",
+    "question": "What is the complete checklist for purchasing motor insurance online?",
+    "answer": "Before payment, verify the insurer and product, vehicle registration number, engine and chassis numbers, owner details, policy type, coverage period, IDV, third-party cover, own-damage cover, NCB, deductibles, add-ons, exclusions, network garages, declared vehicle use, accessory details, applicable taxes, premium breakup, policy commencement date, and official payment channel. After payment, download the policy schedule, receipt, Customer Information Sheet, and policy wording.",
+    "category": "insurance_selection",
+    "keywords": [
+      "online insurance checklist",
+      "buy insurance online",
+      "vehicle policy purchase",
+      "insurance payment checklist"
+    ],
+    "source": "Vehicle Insurance FAQ - Synthetic Extension"
+  }
+]
+

@@ -1,0 +1,51 @@
+================================================================================
+VEHICLE INSURANCE FAQ CHATBOT - FULL-STACK RUNNING COMMANDS
+================================================================================
+
+--------------------------------------------------------------------------------
+PART 1: START THE FASTAPI BACKEND (Terminal 1)
+--------------------------------------------------------------------------------
+1. Navigate to backend:
+   cd backend
+
+2. Activate Virtual Environment (venv):
+   # Windows (PowerShell):
+   .\venv\Scripts\Activate.ps1
+
+   # Windows (Command Prompt):
+   venv\Scripts\activate.bat
+
+   # Linux / macOS:
+   source venv/bin/activate
+
+3. Ingest FAQs into ChromaDB (if not done yet):
+   python scripts/ingest_faqs.py
+
+4. Start Backend Server:
+   uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
+
+   Backend will be running at: http://127.0.0.1:8000
+   Interactive Swagger Docs:   http://127.0.0.1:8000/docs
+   Health Check:              http://127.0.0.1:8000/health
+
+--------------------------------------------------------------------------------
+PART 2: START THE NEXT.JS FRONTEND (Terminal 2)
+--------------------------------------------------------------------------------
+1. Open a new terminal and navigate to frontend:
+   cd frontend
+
+2. Install dependencies (if needed):
+   npm install
+
+3. Start Frontend Development Server:
+   npm run dev
+
+   Frontend will be running at: http://localhost:3000
+   Open Chat Interface at:     http://localhost:3000/chat
+
+--------------------------------------------------------------------------------
+PART 3: RUN AUTOMATED TESTS
+--------------------------------------------------------------------------------
+cd backend
+.\venv\Scripts\Activate.ps1
+pytest tests/ -v
